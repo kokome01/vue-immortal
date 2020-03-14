@@ -1,0 +1,28 @@
+* {
+  font-family: "微软雅黑";
+  margin: 0px;
+  padding: 0px;
+}
+
+textarea {
+  width: 100%;
+  outline: none;
+  resize: none
+}
+
+table {
+  border-spacing: 0px;
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+.ovfHiden {
+  overflow: hidden;
+  height: 100%;
+}
+
+
+/*con*/
